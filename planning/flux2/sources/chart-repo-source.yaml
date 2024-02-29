@@ -1,0 +1,9 @@
+---
+apiVersion: source.toolkit.fluxcd.io/v1beta2
+kind: HelmRepository
+metadata:
+  name: chart-repo
+  namespace: default
+spec:
+  interval: 1m0s
+  url: http://10.157.102.73:8000/
