@@ -4,7 +4,7 @@
 
 global:
   # Namespace to deploy the service
-  namespace: default
+  namespace: autobot-test25-pzk
   # ID of NS used to deploy this chart
   nsId:
 
