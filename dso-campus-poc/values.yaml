@@ -1,6 +1,6 @@
 global:
   # Namespace to deploy the service
-  namespace: autobot-test25-pzk
+  namespace: default
 
 # Name of network-attachment definition associated with macvlan interface
 macvlanNetName: "default-macvlan-net1"
