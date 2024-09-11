@@ -13,7 +13,7 @@ macvlanNetName: "default-macvlan-net1"
 # # Namespace associate with above network-attachment definition associated with macvlan interface
 macvlanNetNamespace: "default"
 
-replicaCount: "1"
+replicaCount: "2"
 
 service:
   # Service type
