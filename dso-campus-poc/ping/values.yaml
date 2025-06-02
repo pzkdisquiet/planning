@@ -17,7 +17,7 @@ replicaCount: "1"
 
 service:
   # Service type
-  type: NodePort
+  type: NodePort90
 
 metrics:
   enabled: true
